@@ -1,0 +1,1 @@
+# Examples with Algorithms in Python ad how long they take
